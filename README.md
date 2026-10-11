@@ -20,22 +20,14 @@ ${{\color{#7d1b14}\normalsize{\textsf{18+ iwc or dni.}}}}$ <br>
 ${{\color{#7d1b14}\normalsize{\textsf{short temper / anger issues}}}}$ <br> 
 ${{\color{#7d1b14}\normalsize{\textsf{mood swings}}}}$ <br> 
 ${{\color{#7d1b14}\normalsize{\textsf{attachment issues}}}}$ <br>
+
+<div align="center"> <details>
+<summary>${{\color{#7d1b14}\normalsize{\textsf{typology}}}}$</summary>
 ${{\color{#7d1b14}\normalsize{\textsf{isfp (fi-se-ni-te) · eii · sp9 9w8 · sp/so · 927 · rLuan · 44445 · 334554}}}}$
+${{\color{#7d1b14}\normalsize{\textsf{adding more soon?}}}}$
+
 </details>
-
-
-
-
-
-<p>
-  <details style="display:inline-block"><summary>click me</summary>text one</details>
-  <details style="display:inline-block"><summary>click me</summary>text two</details>
-  <details style="display:inline-block"><summary>click me</summary>text three</details>
-</p>
-
-
-
-
+</details>
 
 
 
