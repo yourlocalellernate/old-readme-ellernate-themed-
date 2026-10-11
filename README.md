@@ -23,6 +23,8 @@ ${{\color{#7d1b14}\normalsize{\textsf{attactment issues}}}}$ <br>
 ${{\color{#7d1b14}\normalsize{\textsf{isfp (fi-se-ni-te) · eii · sp9 9w8 · sp/so · 927 · rLuan · 44445 · 334554}}}}$
 
 </details>
+<br><br><br><br>
+<hr>
 
 <br clear="left" />
 <img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/5144620b-1000-4c85-8b13-7d274eb97775" align="left" /> 
@@ -53,6 +55,7 @@ ${{\color{#7d1b14}\normalsize{\textsf{usually near under bakery, or near the boa
 
 <br clear="left" />
 
+<hr>
 <br><br><br><br>
 
 ˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ⋆.
