@@ -27,22 +27,6 @@ ${{\color{#7d1b14}\normalsize{\textsf{isfp (fi-se-ni-te) · eii · sp9 9w8 · sp
 ${{\color{#7d1b14}\normalsize{\textsf{adding more soon?}}}}$
 
 </details>
-</details>
-
-
-
-<br><br><br><br>
-<hr>
-
-<br clear="left" />
-<img width="200" height="250" alt="image" src="https://github.com/user-attachments/assets/5144620b-1000-4c85-8b13-7d274eb97775" align="left" /> 
-
-<div align="center">
-<br>
-
-${{\color{#7d1b14}\normalsize{\textsf{asian (arabian)}}}}$ <br>
-${{\color{#7d1b14}\normalsize{\textsf{taken by my 3 partners..}}}}$ <br>
-
 <div align="center"> <details>
 <summary>${{\color{#7d1b14}\normalsize{\textsf{pt info}}}}$</summary>
 
@@ -57,21 +41,17 @@ ${{\color{#7d1b14}\normalsize{\textsf{usually near under bakery, or near the boa
 
 </details>
 
-
-</div>
-
-
-<br clear="left" />
+</details>
 
 <hr>
 <br><br><br><br>
 
-˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ⋆.
-　　　.   　　˚　　 　　　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　　　.　　. 　 ˚　.　　　　 　　 　　　　 ✦
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/5144620b-1000-4c85-8b13-7d274eb97775" />
 
-
-
+<br><br><br><br>
 <hr>
+
+
 
 <p align="center">
 <img width="100" height="50" alt="image" src="https://github.com/user-attachments/assets/b2e80617-c445-4a1a-ac65-e9a286de64a4" /> <img width="100" height="50" alt="image" src="https://github.com/user-attachments/assets/8fa90220-2c8a-471f-be5e-1c10750723ba" />
@@ -87,6 +67,15 @@ ${{\color{#7d1b14}\normalsize{\textsf{hi, wip text}}}}$
 
 </details>
 
+<div align="center"> <details>
+<summary>${{\color{#7d1b14}\normalsize{\textsf{text}}}}$</summary>
+
+${{\color{#7d1b14}\normalsize{\textsf{hi, wip text}}}}$
+
+</details>
+
+<hr>
+
 <div align="center"><details>
 <summary>${{\color{#7d1b14}\normalsize{\textsf{dni list}}}}$</summary>
 
@@ -99,10 +88,6 @@ ${{\color{#7d1b14}\normalsize{\textsf{dni if you are a maga supporter}}}}$ <br>
 
 </details>
 
-
-
-
-
 <p align="center"> 
 ﹍﹍﹍﹍﹍﹍﹍﹍﹍﹍﹍﹍
 
@@ -111,19 +96,19 @@ ${{\color{#7d1b14}\normalsize{\textsf{dni if you are a maga supporter}}}}$ <br>
 <details>
 <summary>${{\color{#7d1b14}\normalsize{\textsf{list of boundaries}}}}$</summary>
 
-> do NOT give me suggestive, overly affectionate, or unwanted pet names. I prefer to be called Isaac.
-> please stick to those name instead of using weird/disgusting nicks or using pet nicks without my permission.
-> If I tell you that a name or nickname makes me uncomfortable… stop using it instead of repeatedly asking why or trying to convince me that it is harmless. 
+>
+> do NOT give me suggestive, overly affectionate, or pet names. i prefer to be called Isaac.
+> if you want to call me smth else pls ask for my permission.
+> If I tell you that a name or nickname makes me uncomfortable… stop using it and do not repeatedly asking why or try to convince me that it is harmless. 
 >
 > do NOT force your religion onto me,
-> pressure me into believing in it or repeatedly bring it up after i have made it clear that I am not interested. breaking
-> this will make me lose interest talking to you.
+> and well im a satanist and i always get sentences like “turn to god” and ect. you should know that ur beliefs is only to yourself,  > and others can have different beliefs. so please do not pressure me into believing in what religion you are or repeatedly bring it.
+> up after i have made it clear that I am not interested. and yes you can share info about ur religion but do not force me to believe it.
 >
-> do not use any slurs around me. and yes i mean every slur, even if you can reclaim. i advise you to not say any slurs around me, it makes me uncomfortable. HIGHLY targeted to brandon.
+> please no slurs around me. and yes i mean every slur, even if you can **reclaim** . i advise you to not say any slurs around me, it makes me uncomfortable. highly targeted to someone.
 >
 > do not assume that because we are friends, close.. ect, you automatically have permission to do whatever you want around me.
-> I still have boundaries, and I expect them to be respected.
-> 
+> i still have boundaries, and i expect them to be respected.
 > 
 
   </details>
