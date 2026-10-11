@@ -36,7 +36,7 @@ ${{\color{#7d1b14}\normalsize{\textsf{asian (arabian)}}}}$ <br>
 ${{\color{#7d1b14}\normalsize{\textsf{taken by my 3 partners..}}}}$ <br>
 
 <div align="center"> <details>
-<summary>${{\color{#7d1b14}\normalsize{\textsf{pony town info}}}}$</summary>
+<summary>${{\color{#7d1b14}\normalsize{\textsf{pt info}}}}$</summary>
 
 ## ${{\color{#7d1b14}\normalsize{\textsf{area}}}}$
 
