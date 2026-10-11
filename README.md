@@ -26,29 +26,12 @@ ${{\color{#7d1b14}\normalsize{\textsf{isfp (fi-se-ni-te) · eii · sp9 9w8 · sp
 
 
 
-<details style="display:inline-block">
 
-<summary>click me</summary>
-
-text one
-
-</details>
-
-<details style="display:inline-block">
-
-<summary>click me</summary>
-
-text two
-
-</details>
-
-<details style="display:inline-block">
-
-<summary>click me</summary>
-
-text three
-
-</details>
+<p>
+  <details style="display:inline-block"><summary>click me</summary>text one</details>
+  <details style="display:inline-block"><summary>click me</summary>text two</details>
+  <details style="display:inline-block"><summary>click me</summary>text three</details>
+</p>
 
 
 
