@@ -24,22 +24,31 @@ ${{\color{#7d1b14}\normalsize{\textsf{isfp (fi-se-ni-te) · eii · sp9 9w8 · sp
 </details>
 
 
-<table>
-<tr>
-<td><details>
+
+
+<details style="display:inline-block">
+
 <summary>click me</summary>
+
 text one
-</details></td>
-<td><details>
+
+</details>
+
+<details style="display:inline-block">
+
 <summary>click me</summary>
+
 text two
-</details></td>
-<td><details>
+
+</details>
+
+<details style="display:inline-block">
+
 <summary>click me</summary>
+
 text three
-</details></td>
-</tr>
-</table>
+
+</details>
 
 
 
