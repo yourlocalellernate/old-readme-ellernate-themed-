@@ -51,7 +51,7 @@ text three
 <hr>
 
 <br clear="left" />
-<img width="100" height="150" alt="image" src="https://github.com/user-attachments/assets/5144620b-1000-4c85-8b13-7d274eb97775" align="left" /> 
+<img width="200" height="250" alt="image" src="https://github.com/user-attachments/assets/5144620b-1000-4c85-8b13-7d274eb97775" align="left" /> 
 
 <div align="center">
 <br>
