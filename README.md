@@ -1,3 +1,5 @@
+[![Hits](https://hits.sh/github.com/pantera-00/hits.svg?style=for-the-badge&label=hugs%20from%20caleb244&color=760204&labelColor=390b0b)](https://hits.sh/github.com/pantera-00/hits/)
+
 <p align="center">
 <img width="1500" height="1000" alt="image" src="https://github.com/user-attachments/assets/c75afa72-4f41-4d20-96b4-731486691876" />
 
