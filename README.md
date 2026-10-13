@@ -26,12 +26,6 @@ ${{\color{#7d1b14}\normalsize{\textsf{mood swings}}}}$ <br>
 ${{\color{#7d1b14}\normalsize{\textsf{attachment issues}}}}$ <br>
 
 <div align="center"> <details>
-<summary>${{\color{#7d1b14}\normalsize{\textsf{typology}}}}$</summary>
-${{\color{#7d1b14}\normalsize{\textsf{isfp (fi-se-ni-te) · eii · sp9 9w8 · sp/so · 927 · rLuan · 44445 · 334554}}}}$
-${{\color{#7d1b14}\normalsize{\textsf{adding more soon?}}}}$
-
-</details>
-<div align="center"> <details>
 <summary>${{\color{#7d1b14}\normalsize{\textsf{pt info}}}}$</summary>
 
 ## ${{\color{#7d1b14}\normalsize{\textsf{area}}}}$
@@ -51,6 +45,15 @@ ${{\color{#7d1b14}\normalsize{\textsf{usually near under bakery, or near the boa
 <br><br><br><br>
 
 <img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/5144620b-1000-4c85-8b13-7d274eb97775" />
+
+<br><br><br><br>
+
+<div align="center"> <details>
+<summary>${{\color{#7d1b14}\normalsize{\textsf{typology}}}}$</summary>
+${{\color{#7d1b14}\normalsize{\textsf{isfp (fi-se-ni-te) · eii · sp9 9w8 · sp/so · 927 · rLuan · 44445 · 334554}}}}$
+${{\color{#7d1b14}\normalsize{\textsf{adding more soon?}}}}$
+
+</details>
 
 <br><br><br><br>
 <hr>
@@ -77,8 +80,6 @@ ${{\color{#7d1b14}\normalsize{\textsf{hi, wip text}}}}$
 ${{\color{#7d1b14}\normalsize{\textsf{hi, wip text}}}}$
 
 </details>
-
-<hr>
 
 <div align="center"><details>
 <summary>${{\color{#7d1b14}\normalsize{\textsf{do NOT **interact**}}}}$</summary>
