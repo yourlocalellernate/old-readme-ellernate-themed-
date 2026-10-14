@@ -75,9 +75,9 @@ ${{\color{#7d1b14}\normalsize{\textsf{hi, wip text}}}}$
 </details>
 
 <div align="center"> <details>
-<summary>${{\color{#7d1b14}\normalsize{\textsf{text}}}}$</summary>
+<summary>${{\color{#7d1b14}{text}$</summary>
 
-${{\color{#7d1b14}{hi, wip text}}}}$
+test
 
 
 </details>
