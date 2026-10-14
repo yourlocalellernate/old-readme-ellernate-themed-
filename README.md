@@ -120,3 +120,5 @@ ${{\color{#7d1b14}\normalsize{\textsf{wait im putting a list ok..}}}}$ <br>
 
 <p align="center">﹍﹍﹍﹍﹍﹍﹍﹍﹍﹍﹍﹍</p> <br>
 <p align="center">⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣</p>
+
+donate sum to me guysss…
