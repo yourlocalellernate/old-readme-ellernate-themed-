@@ -77,12 +77,14 @@ ${{\color{#7d1b14}\normalsize{\textsf{hi, wip text}}}}$
 <div align="center"> <details>
 <summary>${{\color{#7d1b14}\normalsize{\textsf{text}}}}$</summary>
 
-${{\color{#7d1b14}\normalsize{\textsf{hi, wip text}}}}$
+${{\color{#7d1b14}{hi, wip text}}}}$
+
 
 </details>
 
+
 <div align="center"><details>
-<summary>${{\color{#7d1b14}\normalsize{\textbf{do NOT interact}}}}$</summary>
+<summary>${{\color{#7d1b14}\normalsize{\textsf{do NOT interact}}}}$</summary>
 
 ### ${{\color{#7d1b14}\normalsize{\textsf{dni if you support or youre one.}}}}$
 
