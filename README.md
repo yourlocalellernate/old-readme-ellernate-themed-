@@ -82,7 +82,7 @@ ${{\color{#7d1b14}\normalsize{\textsf{hi, wip text}}}}$
 </details>
 
 <div align="center"><details>
-<summary>${{\color{#7d1b14}\normalsize{\textsf{do NOT **interact**}}}}$</summary>
+<summary>${{\color{#7d1b14}\normalsize{\textbf{do NOT interact}}}}$</summary>
 
 ### ${{\color{#7d1b14}\normalsize{\textsf{dni if you support or youre one.}}}}$
 
@@ -93,7 +93,7 @@ ${{\color{#7d1b14}\normalsize{\textsf{wait im putting a list ok..}}}}$ <br>
 
 <p align="center"> 
 ﹍﹍﹍﹍﹍﹍﹍﹍﹍﹍﹍﹍
-
+<hr>
 
 <div align="center">
 <details>
