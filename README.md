@@ -3,7 +3,8 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=8A0000&width=435&lines=%E2%80%9C+I+don't+hack.+Or+do+i%E2%80%A6%3F+%E2%80%9C" alt="Typing SVG" /></a>
 
 <p align="center">
-<img width="1500" height="1000" alt="image" src="https://github.com/user-attachments/assets/c75afa72-4f41-4d20-96b4-731486691876" />
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/d75d430e-6cdc-4388-9687-60cafda06f81" />
+
 
 
 
