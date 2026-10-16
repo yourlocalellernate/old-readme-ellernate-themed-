@@ -17,7 +17,21 @@
 ${{\color{#7d1b14}\normalsize{\textsf{·̩͙།† ͝  ︶  ͝   ⏝   ͝  ︶  ͝ †། ·̩͙}}}}$ <br>
 ${{\color{#7d1b14}\normalsize{\textsf{my page…}}}}$ <br>
 ${{\color{#7d1b14}\normalsize{\textsf{18+ iwc or dni.}}}}$ <br>
-  
+
+<div align="center"> <details>
+<summary>${{\color{#7d1b14}\normalsize{\textsf{byi}}}}$</summary>
+
+${{\color{#7d1b14}\normalsize{\textsf{…}}}}$ <br>
+rapid mood swings <br>
+rapid emotional shifts <br>
+emotional dysregulation (difficulty managing intense emotions) <br>
+maladaptive perfectionism <br>
+emotional masking <br>
+
+if ur uncomfy with me, please let me know instead of hiding it ok.. <33
+</details>
+
+
 <div align="center">
 <details>
 <summary>${{\color{#7d1b14}\normalsize{\textsf{click to see full about me !!}}}}$</summary>
@@ -65,20 +79,6 @@ ${{\color{#7d1b14}\normalsize{\textsf{adding more soon?}}}}$
 <img width="100" height="50" alt="image" src="https://github.com/user-attachments/assets/b2e80617-c445-4a1a-ac65-e9a286de64a4" /> <img width="100" height="50" alt="image" src="https://github.com/user-attachments/assets/8fa90220-2c8a-471f-be5e-1c10750723ba" />
 
 <hr>
-
-
-
-<div align="center"> <details>
-<summary>${{\color{#7d1b14}\normalsize{\textsf{text}}}}$</summary>
-
-${{\color{#7d1b14}\normalsize{\textsf{… text}}}}$
-rapid mood swings <br>
-rapid emotional shifts <br>
-emotional dysregulation (difficulty managing intense emotions) <br>
-maladaptive perfectionism <br>
-emotional masking <br>
-
-</details>
 
 <div align="center"> <details>
 <summary>${{\color{#7d1b14}\normalsize{\texttt{text}}}}$</summary>
