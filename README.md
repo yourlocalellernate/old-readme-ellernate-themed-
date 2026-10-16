@@ -19,7 +19,7 @@ ${{\color{#7d1b14}\normalsize{\textsf{my page…}}}}$ <br>
 ${{\color{#7d1b14}\normalsize{\textsf{18+ iwc or dni.}}}}$ <br>
 
 <div align="center"> <details>
-<summary>${{\color{#7d1b14}\normalsize{\textsf{byi}}}}$</summary>
+### <summary>${{\color{#7d1b14}\normalsize{\textsf{byi}}}}$</summary>
 
 ${{\color{#7d1b14}\normalsize{\textsf{…}}}}$ <br>
 rapid mood swings <br>
