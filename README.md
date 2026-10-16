@@ -71,7 +71,12 @@ ${{\color{#7d1b14}\normalsize{\textsf{adding more soon?}}}}$
 <div align="center"> <details>
 <summary>${{\color{#7d1b14}\normalsize{\textsf{text}}}}$</summary>
 
-${{\color{#7d1b14}\normalsize{\textsf{hi, wip text}}}}$
+${{\color{#7d1b14}\normalsize{\textsf{… text}}}}$
+rapid mood swings <br>
+rapid emotional shifts <br>
+emotional dysregulation (difficulty managing intense emotions) <br>
+maladaptive perfectionism <br>
+emotional masking <br>
 
 </details>
 
