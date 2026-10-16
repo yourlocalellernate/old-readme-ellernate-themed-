@@ -24,7 +24,7 @@ ${{\color{#7d1b14}\normalsize{\textsf{18+ iwc or dni.}}}}$ <br>
 ${{\color{#7d1b14}\normalsize{\textsf{…}}}}$ <br>
 rapid mood swings <br>
 rapid emotional shifts <br>
-emotional dysregulation (difficulty managing intense emotions) <br>
+emotional dysregulation <br>
 maladaptive perfectionism <br>
 emotional masking <br>
 
@@ -35,10 +35,6 @@ if ur uncomfy with me, please let me know instead of hiding it ok.. <33
 <div align="center">
 <details>
 <summary>${{\color{#7d1b14}\normalsize{\textsf{click to see full about me !!}}}}$</summary>
-
-${{\color{#7d1b14}\normalsize{\textsf{short temper / anger issues}}}}$ <br> 
-${{\color{#7d1b14}\normalsize{\textsf{mood swings}}}}$ <br> 
-${{\color{#7d1b14}\normalsize{\textsf{attachment issues}}}}$ <br>
 
 <div align="center"> <details>
 <summary>${{\color{#7d1b14}\normalsize{\textsf{pt info}}}}$</summary>
