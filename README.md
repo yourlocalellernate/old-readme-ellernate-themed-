@@ -12,11 +12,11 @@
 
 <p align="center">
 ⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢ <br>
-﹉﹉﹉﹉﹉﹉﹉﹉﹉﹉ <br>
+ ﹉﹉﹉﹉﹉﹉﹉﹉﹉﹉ <br>
 <p align="center">
 ${{\color{#7d1b14}\normalsize{\textsf{·̩͙།† ͝  ︶  ͝   ⏝   ͝  ︶  ͝ †། ·̩͙}}}}$ <br>
 ${{\color{#7d1b14}\normalsize{\textsf{my page…}}}}$ <br>
-${{\color{#7d1b14}\normalsize{\textsf{18+ iwc or dni.}}}}$ <br>
+${{\color{#7d1b14}\normalsize{\textsf{hiooooa}}}}$ <br>
 
 <div align="center"> <details>
 ### <summary>${{\color{#7d1b14}\normalsize{\textsf{byi}}}}$</summary>
